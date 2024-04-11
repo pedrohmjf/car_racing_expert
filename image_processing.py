@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
-from google.colab.patches import cv2_imshow
 import math
 
 def color_filter(observation):
